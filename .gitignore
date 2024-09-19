@@ -1,0 +1,24 @@
+# 虛擬環境
+myenv/
+
+# Python 編譯文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 作業系統文件
+.DS_Store
+Thumbs.db
+
+# IDE 和編輯器配置
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 日誌文件
+*.log
+
+# 環境變數
+.env
