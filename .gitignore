@@ -22,3 +22,6 @@ Thumbs.db
 
 # 環境變數
 .env
+
+# 測資
+.txt
